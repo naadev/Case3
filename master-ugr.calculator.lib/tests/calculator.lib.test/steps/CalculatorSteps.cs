@@ -38,6 +38,7 @@ namespace calculator.lib.test.steps
             _scenarioContext.Add("result", (double)result);
         }
         [When(@"I divide first number by second number")]
+        [When(@"I divide both numbers")]
         public void WhenIDivideFirstNumberBySecondNumber()
         {
             var firstNumber = _scenarioContext.Get<int>("firstNumber");
