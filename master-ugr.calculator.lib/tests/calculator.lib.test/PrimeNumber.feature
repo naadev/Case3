@@ -22,6 +22,7 @@ Scenario Outline: Checking several prime numbers
 	| 9      | No      |
 	| 10     | No      |
 	| 11     | Yes     |
+	| 179    | Yes     |
 	| 997    | Yes     |
 	| 98689  | Yes     |
 	| 86743  | Yes     |
