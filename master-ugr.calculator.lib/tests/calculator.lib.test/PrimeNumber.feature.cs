@@ -97,6 +97,7 @@ namespace calculator.lib.test
         [Xunit.InlineDataAttribute("9", "No", new string[0])]
         [Xunit.InlineDataAttribute("10", "No", new string[0])]
         [Xunit.InlineDataAttribute("11", "Yes", new string[0])]
+        [Xunit.InlineDataAttribute("179", "Yes", new string[0])]
         [Xunit.InlineDataAttribute("997", "Yes", new string[0])]
         [Xunit.InlineDataAttribute("98689", "Yes", new string[0])]
         [Xunit.InlineDataAttribute("86743", "Yes", new string[0])]
